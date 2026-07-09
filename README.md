@@ -20,5 +20,4 @@ An end-to-end data analytics and automation project transforming raw, normalized
 * *Revenue Champions*: Identified top-grossing pizza categories and exact sizes driving the highest profit margins.
 * *Operational Peaks*: Visualized exact high-traffic hourly distributions to optimize staff scheduling and kitchen resource prep.
 
-### 🖼️ Dashboard Preview
-![Dashboard Preview](Screenshot.png)
+
