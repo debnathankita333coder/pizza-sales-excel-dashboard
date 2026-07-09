@@ -20,4 +20,4 @@ An end-to-end data analytics and automation project transforming raw, normalized
 * *Operational Peaks*: Visualized exact high-traffic hourly distributions to optimize staff scheduling and kitchen resource prep.
 
 ### 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.jpg)
+![Dashboard Preview](Screenshot.png)
