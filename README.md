@@ -14,6 +14,7 @@ An end-to-end data analytics and automation project transforming raw, normalized
 ## 💡 Key Engineering Challenges Solved
 * *Normalized Data Aggregation*: Successfully mapped separate relational data tables ($order\_details \rightarrow pizzas \rightarrow pizza\_types$) to construct a consolidated master transactional data layer.
 * *Legacy Feature Optimization: Engineered a master **Filter Corner* using a custom VBA macro to bypass legacy software limitations, enabling a single cell selection to dynamically filter multiple independent Pivot Charts simultaneously.
+<img width="1334" height="700" alt="Pizza_Place_Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/4ab4cdd1-aa69-4728-a51a-e473b201aa69" />
 
 
 ## 📈 Core Business Insights Delivered
